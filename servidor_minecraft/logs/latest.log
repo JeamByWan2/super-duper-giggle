@@ -1,0 +1,751 @@
+[00:12:57] [Server thread/INFO]: Maximum spawn attempts reached. Skipping this alpha spawn
+[00:21:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:21:35] [Server thread/INFO]: cdd<--[HERE]
+[00:28:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:28:29] [Server thread/INFO]: vdj<--[HERE]
+[00:30:59] [Server thread/INFO]: JeamByOne lost connection: Kicked by an operator
+[00:30:59] [Server thread/INFO]: JeamByOne left the game
+[00:30:59] [Netty Epoll Server IO #2/INFO]: Player JeamByOne disconnected, saving their progress data
+[00:30:59] [Netty Epoll Server IO #2/INFO]: Saved shrine progress for player JeamByOne in world world_852620163
+[00:30:59] [Server thread/INFO]: Unregistered trainer player: JeamByOne
+[00:30:59] [Server thread/INFO]: Kicked JeamByOne: Kicked by an operator
+[00:30:59] [Server thread/WARN]: handleDisconnection() called twice
+[00:36:50] [User Authenticator #2/INFO]: UUID of player JeamByOne is f49b1a4e-cd7b-438c-a9de-032cf079c4b1
+[00:36:53] [Server thread/INFO]: JeamByOne[/10.238.119.236:44016] logged in with entity id 15512 at (-244.32457940378814, 58.0, -190.30000001192093)
+[00:36:54] [Server thread/INFO]: Sending server config values to client
+[00:36:54] [Server thread/INFO]: Player JeamByOne joined, loading progress data
+[00:36:54] [Server thread/INFO]: JeamByOne joined the game
+[00:36:54] [Server thread/INFO]: Registered trainer player: JeamByOne
+[00:36:54] [Server thread/INFO]: Sending item configs to client
+[00:36:55] [Server thread/INFO]: Channel update: JeamByOne -> default
+[00:36:55] [Server thread/INFO]: Receiving client config
+[00:36:55] [Server thread/INFO]: [FANCYMENU] A client with FancyMenu installed joined the server: JeamByOne
+[00:36:55] [Server thread/INFO]: Enabling client-side item models for player: JeamByOne
+[00:36:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[00:39:32] [Server thread/INFO]: [Ball Stickers] Zoroark (Slot 1) sent out
+[00:39:33] [Server thread/INFO]: [Ball Stickers] Garchomp (Slot 2) sent out
+[00:39:33] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 4) sent out
+[00:39:34] [Server thread/INFO]: [Ball Stickers] Toedscruel (Slot 5) sent out
+[00:39:35] [Server thread/INFO]: [Ball Stickers] Salamence (Slot 6) sent out
+[00:39:36] [Server thread/WARN]: Entity PokemonEntity['Toedscruel'/16466, l='ServerLevel[world]', x=-205.88, y=64.00, z=-149.39, removed=DISCARDED] wasn't found in section class_4076{x=-13, y=4, z=-10} (destroying due to DISCARDED)
+[00:39:37] [Server thread/INFO]: [Ball Stickers] Toedscruel (Slot 5) sent out
+[00:40:13] [Server thread/WARN]: Entity PokemonEntity['Salamence'/16467, l='ServerLevel[world]', x=-212.28, y=64.00, z=-132.60, removed=DISCARDED] wasn't found in section class_4076{x=-14, y=4, z=-9} (destroying due to DISCARDED)
+[00:40:13] [Server thread/INFO]: [Ball Stickers] Lucario (Slot 3) sent out
+[00:40:14] [Server thread/WARN]: Entity PokemonEntity['Toedscruel'/16480, l='ServerLevel[world]', x=-208.73, y=64.00, z=-135.97, removed=DISCARDED] wasn't found in section class_4076{x=-14, y=4, z=-9} (destroying due to DISCARDED)
+[00:40:14] [Server thread/WARN]: Entity PokemonEntity['Greninja'/16463, l='ServerLevel[world]', x=-209.47, y=64.00, z=-129.00, removed=DISCARDED] wasn't found in section class_4076{x=-14, y=4, z=-9} (destroying due to DISCARDED)
+[00:40:15] [Server thread/WARN]: Entity PokemonEntity['Roxy'/16462, l='ServerLevel[world]', x=-208.85, y=64.99, z=-136.76, removed=DISCARDED] wasn't found in section class_4076{x=-14, y=4, z=-9} (destroying due to DISCARDED)
+[00:40:16] [Server thread/WARN]: Entity PokemonEntity['Zoroark'/16460, l='ServerLevel[world]', x=-210.00, y=64.00, z=-135.23, removed=DISCARDED] wasn't found in section class_4076{x=-14, y=4, z=-9} (destroying due to DISCARDED)
+[00:40:18] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 4) sent out
+[00:40:21] [Server thread/WARN]: Entity PokemonEntity['Greninja'/16712, l='ServerLevel[world]', x=-210.50, y=64.00, z=-142.50, removed=DISCARDED] wasn't found in section class_4076{x=-14, y=4, z=-9} (destroying due to DISCARDED)
+[00:40:21] [Server thread/WARN]: Entity PokemonEntity['Lucario'/16699, l='ServerLevel[world]', x=-209.50, y=64.00, z=-150.82, removed=DISCARDED] wasn't found in section class_4076{x=-14, y=4, z=-10} (destroying due to DISCARDED)
+[00:40:55] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[00:53:00] [Server thread/INFO]: ¡Un Pokemon Alpha ha aparecido cerca de alguien!
+[00:53:38] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[00:58:18] [User Authenticator #3/INFO]: UUID of player MrSGR22 is 1b2e34e3-25c2-4e98-9ec8-a90d775517d4
+[00:58:22] [Server thread/INFO]: MrSGR22[/10.238.119.59:64580] logged in with entity id 20186 at (-1174.9969853126831, 15.0, -3433.4682241853193)
+[00:58:22] [Server thread/INFO]: Sending server config values to client
+[00:58:22] [Server thread/INFO]: Player MrSGR22 joined, loading progress data
+[00:58:22] [Server thread/INFO]: MrSGR22 joined the game
+[00:58:22] [Server thread/INFO]: Registered trainer player: MrSGR22
+[00:58:22] [Server thread/INFO]: Sending item configs to client
+[00:58:24] [Server thread/INFO]: Channel update: MrSGR22 -> default
+[00:58:24] [Server thread/INFO]: Receiving client config
+[00:58:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[00:58:24] [Server thread/INFO]: [FANCYMENU] A client with FancyMenu installed joined the server: MrSGR22
+[00:58:24] [Server thread/INFO]: Enabling client-side item models for player: MrSGR22
+[00:58:27] [Server thread/WARN]: UUID of added entity already exists: class_1428['Chicken'/20485, l='ServerLevel[world]', x=-991.98, y=75.13, z=-3505.37]
+[00:58:32] [Server thread/INFO]: MrSGR22 was shot by Skeleton
+[00:58:32] [Server thread/INFO]: [MrSGR22: [LD] You died at -1175, 15, -3434, in minecraft:overworld.]
+[00:58:42] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[00:58:43] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[00:58:44] [Server thread/INFO]: [Ball Stickers] Metang (Slot 3) sent out
+[00:58:44] [Server thread/INFO]: [Ball Stickers] Gabite (Slot 4) sent out
+[00:58:45] [Server thread/INFO]: [Ball Stickers] Goomy (Slot 5) sent out
+[00:58:45] [Server thread/INFO]: [Ball Stickers] Charizard (Slot 6) sent out
+[00:58:46] [Server thread/INFO]: <JeamByOne> XD
+[00:58:47] [Server thread/INFO]: <JeamByOne> XD
+[00:58:48] [Server thread/INFO]: <JeamByOne> XD
+[00:58:49] [Server thread/INFO]: <JeamByOne> XD
+[00:58:53] [Server thread/INFO]: <JeamByOne> XD
+[00:58:54] [Server thread/INFO]: <JeamByOne> XD
+[00:58:54] [Server thread/INFO]: <JeamByOne> XD
+[00:58:55] [Server thread/INFO]: <JeamByOne> XD
+[00:58:56] [Server thread/INFO]: <JeamByOne> XD
+[00:58:57] [Server thread/INFO]: <JeamByOne> XD
+[00:58:57] [Server thread/INFO]: <JeamByOne> XD
+[00:58:58] [Server thread/INFO]: <JeamByOne> XD
+[00:59:00] [Server thread/INFO]: <JeamByOne> XD
+[00:59:00] [Server thread/INFO]: <JeamByOne> XD
+[00:59:01] [Server thread/INFO]: <MrSGR22> QUE ES ESTE FOV
+[00:59:12] [Server thread/INFO]: <JeamByOne> fov de jugador tecnico
+[00:59:26] [Server thread/INFO]: <MrSGR22> parezco bizco
+[00:59:34] [Server thread/INFO]: <JeamByOne> CAMBIATELO
+[00:59:37] [Server thread/INFO]: <JeamByOne> POR DIOS
+[00:59:41] [Server thread/INFO]: <JeamByOne> OJALA SE LO FOLLE UN NEGRO
+[00:59:48] [Server thread/INFO]: <JeamByOne> NI UNA GRINGA SE QUEJA TANTO COMO VOS
+[00:59:55] [Server thread/INFO]: <MrSGR22> ud es un cancer
+[01:02:21] [Server thread/INFO]: <MrSGR22> ud es sordo
+[01:02:32] [Server thread/INFO]: [Ball Stickers] Lucario (Slot 3) sent out
+[01:02:37] [Server thread/WARN]: Entity PokemonEntity['Lucario'/22368, l='ServerLevel[world]', x=-254.58, y=58.00, z=-191.21, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[01:02:44] [Server thread/INFO]: <JeamByOne> pero si el volumen esta en 35%
+[01:02:45] [Server thread/INFO]: <JeamByOne> lmao
+[01:02:55] [Server thread/INFO]: <MrSGR22> tenes activado lo de los sonidos
+[01:02:59] [Server thread/INFO]: <MrSGR22> las visuales
+[01:03:01] [Server thread/INFO]: <JeamByOne> que sonidos
+[01:03:03] [Server thread/INFO]: <JeamByOne> ah
+[01:03:03] [Server thread/INFO]: <MrSGR22> puto sordo
+[01:03:12] [Server thread/INFO]: <JeamByOne> los subtitulos
+[01:03:16] [Server thread/INFO]: <JeamByOne> pero es para otra cosa
+[01:03:17] [Server thread/INFO]: <JeamByOne> XD
+[01:03:20] [Server thread/INFO]: <JeamByOne> subnormal
+[01:03:25] [Server thread/INFO]: <MrSGR22> anormal
+[01:03:31] [Server thread/INFO]: <JeamByOne> chupemela
+[01:03:32] [Server thread/INFO]: <MrSGR22> cómo que eructo? xd
+[01:04:04] [Server thread/WARN]: Entity PokemonEntity['Greninja'/20905, l='ServerLevel[world]', x=-1192.70, y=10.00, z=-3467.94, removed=KILLED] wasn't found in section class_4076{x=-75, y=0, z=-217} (destroying due to DISCARDED)
+[01:04:41] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[01:04:52] [Server thread/WARN]: Entity PokemonEntity['Gengar'/20913, l='ServerLevel[world]', x=-1183.68, y=12.00, z=-3446.63, removed=KILLED] wasn't found in section class_4076{x=-74, y=0, z=-216} (destroying due to DISCARDED)
+[01:05:09] [Server thread/INFO]: <MrSGR22> te quiero bro
+[01:05:14] [Server thread/INFO]: <MrSGR22> :3
+[01:05:19] [Server thread/INFO]: <JeamByOne> :illojuanKILL:
+[01:05:23] [Server thread/WARN]: Entity PokemonEntity['Charizard'/20921, l='ServerLevel[world]', x=-1181.33, y=13.00, z=-3442.03, removed=KILLED] wasn't found in section class_4076{x=-74, y=0, z=-216} (destroying due to DISCARDED)
+[01:05:46] [Server thread/INFO]: [Ball Stickers] Lucario (Slot 3) sent out
+[01:05:49] [Server thread/WARN]: Entity PokemonEntity['Lucario'/23584, l='ServerLevel[world]', x=-255.59, y=58.06, z=-189.89, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[01:05:54] [Server thread/WARN]: Skipping Entity with id cobblemon_pokemon_entity_placeholder
+[01:06:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[01:06:03] [Server thread/INFO]: <JeamByOne> milktank dame tu leche
+[01:06:04] [Server thread/INFO]: <JeamByOne> oh si
+[01:06:06] [Server thread/INFO]: <JeamByOne> rico
+[01:06:07] [Server thread/INFO]: <JeamByOne> mas
+[01:06:09] [Server thread/INFO]: <JeamByOne> aahh
+[01:06:10] [Server thread/WARN]: Skipping Entity with id cobblemon_pokemon_entity_placeholder
+[01:06:10] [Server thread/INFO]: <MrSGR22> qe
+[01:06:10] [Server thread/INFO]: <JeamByOne> rico
+[01:06:11] [Server thread/INFO]: <JeamByOne> mas
+[01:06:13] [Server thread/INFO]: <JeamByOne> miltak
+[01:06:13] [Server thread/WARN]: Skipping Entity with id cobblemon_pokemon_entity_placeholder
+[01:06:14] [Server thread/INFO]: <JeamByOne> ahhh
+[01:06:25] [Server thread/INFO]: <JeamByOne> la ordeñe
+[01:06:27] [Server thread/INFO]: [MrSGR22: Fully healed MrSGR22's party.]
+[01:06:29] [Server thread/INFO]: <JeamByOne> le saque leche
+[01:06:31] [Server thread/INFO]: <JeamByOne> TRAMPA
+[01:06:37] [Server thread/INFO]: <JeamByOne> ya nos voy a quitar el op a ambos
+[01:06:51] [Server thread/INFO]: <MrSGR22> a mí me sacó la leche....
+[01:06:53] [Server thread/INFO]: <MrSGR22> no
+[01:07:06] [Server thread/INFO]: [Ball Stickers] Charizard (Slot 6) sent out
+[01:07:07] [Server thread/INFO]: [Ball Stickers] Gabite (Slot 4) sent out
+[01:07:08] [Server thread/INFO]: [Ball Stickers] Metang (Slot 3) sent out
+[01:07:08] [Server thread/WARN]: Entity PokemonEntity['Goomy'/20920, l='ServerLevel[world]', x=-1098.15, y=15.00, z=-3461.33, removed=DISCARDED] wasn't found in section class_4076{x=-69, y=0, z=-217} (destroying due to DISCARDED)
+[01:07:08] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[01:07:09] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[01:08:11] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[01:08:24] [Server thread/WARN]: Entity PokemonEntity['Metang'/24158, l='ServerLevel[world]', x=-1166.50, y=16.98, z=-3442.13, removed=KILLED] wasn't found in section class_4076{x=-73, y=1, z=-216} (destroying due to DISCARDED)
+[01:08:24] [Server thread/WARN]: Entity PokemonEntity['Greninja'/24162, l='ServerLevel[world]', x=-1165.05, y=14.00, z=-3447.16, removed=KILLED] wasn't found in section class_4076{x=-73, y=0, z=-216} (destroying due to DISCARDED)
+[01:08:27] [Server thread/INFO]: [MrSGR22: Fully healed MrSGR22's party.]
+[01:08:34] [Server thread/INFO]: <JeamByOne> el trampas
+[01:08:38] [Server thread/INFO]: <MrSGR22> si soy
+[01:08:51] [Server thread/INFO]: <MrSGR22> soy yo o nos atraso a donde lo dejamos ayer?
+[01:09:03] [Server thread/INFO]: <JeamByOne> q
+[01:09:10] [Server thread/INFO]: <JeamByOne> esta en donde quedamos
+[01:09:14] [Server thread/INFO]: <JeamByOne> cuando peto
+[01:09:20] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[01:09:39] [Server thread/INFO]: <MrSGR22> no, yo ayer consegui la mega piedra y todo, ahora spawnee al inicio de la cueva
+[01:09:49] [Server thread/INFO]: <JeamByOne> recuerde que justo peto
+[01:09:53] [Server thread/INFO]: <JeamByOne> cuando ud estaba
+[01:10:01] [Server thread/INFO]: <MrSGR22> ostia el gengar hace emotiza
+[01:10:05] [Server thread/INFO]: <JeamByOne> durante 3 minutos todo lo que haya hecho se elimino
+[01:10:10] [Server thread/INFO]: <JeamByOne> pq justo peto
+[01:10:14] [Server thread/WARN]: Entity PokemonEntity['Gabite'/24149, l='ServerLevel[world]', x=-1164.50, y=12.00, z=-3458.50, removed=KILLED] wasn't found in section class_4076{x=-73, y=0, z=-217} (destroying due to DISCARDED)
+[01:10:18] [Server thread/INFO]: <JeamByOne> osea ud podia seguir jugando
+[01:10:21] [Server thread/INFO]: <JeamByOne> pero eso no se guardo
+[01:10:37] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[01:11:05] [Server thread/WARN]: Entity PokemonEntity['Charizard'/24143, l='ServerLevel[world]', x=-1189.83, y=11.00, z=-3460.49, removed=DISCARDED] wasn't found in section class_4076{x=-75, y=0, z=-217} (destroying due to DISCARDED)
+[01:11:14] [Server thread/INFO]: [Ball Stickers] Salamence (Slot 6) sent out
+[01:11:17] [Server thread/WARN]: Entity PokemonEntity['Salamence'/25793, l='ServerLevel[world]', x=-248.66, y=69.00, z=-179.50, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=4, z=-12} (destroying due to DISCARDED)
+[01:11:30] [Server thread/INFO]: [Ball Stickers] Miltank (Slot 5) sent out
+[01:11:38] [c2me-worker-0/WARN]: Tried to access a block entity before it was created. class_2338{x=-1376, y=-46, z=-3685}
+[01:11:50] [Server thread/WARN]: Entity PokemonEntity['Miltank'/25932, l='ServerLevel[world]', x=-253.99, y=58.06, z=-188.22, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[01:11:55] [Server thread/INFO]: <JeamByOne> por nada del mundo duerma
+[01:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[01:12:21] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[01:12:38] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[01:12:41] [Server thread/WARN]: Entity PokemonEntity['Greninja'/26681, l='ServerLevel[world]', x=-1170.83, y=-28.00, z=-3423.97, removed=DISCARDED] wasn't found in section class_4076{x=-74, y=-2, z=-214} (destroying due to DISCARDED)
+[01:13:13] [Server thread/WARN]: Entity PokemonEntity['Gengar'/24159, l='ServerLevel[world]', x=-1167.62, y=-33.90, z=-3437.00, removed=DISCARDED] wasn't found in section class_4076{x=-73, y=-3, z=-215} (destroying due to DISCARDED)
+[01:14:28] [Server thread/INFO]: <MrSGR22> permiso para spawnearme una mega piedra
+[01:14:36] [Server thread/INFO]: <JeamByOne> solo 1
+[01:14:38] [Server thread/INFO]: <JeamByOne> no ratee
+[01:14:40] [Server thread/INFO]: <MrSGR22> no la tengo y aqui esta minado
+[01:15:06] [Server thread/INFO]: <MrSGR22> no puedo sacarla
+[01:15:38] [Server thread/INFO]: [JeamByOne: Gave 1 [Keystone] to MrSGR22]
+[01:15:42] [Server thread/INFO]: <JeamByOne> ah
+[01:15:44] [Server thread/INFO]: <JeamByOne> esa no era
+[01:15:45] [Server thread/INFO]: <JeamByOne> xd
+[01:16:04] [Server thread/INFO]: MrSGR22 has made the advancement [It’s Just a Shiny Rock... Right?]
+[01:16:04] [Server thread/INFO]: [JeamByOne: Gave 1 [Mega Stone] to MrSGR22]
+[01:16:12] [Server thread/INFO]: <MrSGR22> que rata
+[01:16:20] [Server thread/INFO]: <MrSGR22> gracias bebe
+[01:17:33] [Server thread/INFO]: <MrSGR22> le conté que por culpa de unos bobos ahora solo vamos a programar en papel sin nada tecnologico?
+[01:17:38] [Server thread/INFO]: <JeamByOne> pq
+[01:17:44] [Server thread/INFO]: <JeamByOne> q cagada se hicieron
+[01:18:26] [Server thread/INFO]: <MrSGR22> este profe pues el mae deja un pichazo de trabajo y como que no se le entiende lo que explicaba
+[01:18:39] [Server thread/INFO]: <MrSGR22> entonces un mae mandó una queja y hoy una carta
+[01:18:58] [Server thread/INFO]: <MrSGR22> por culpa de eso cambiaron un pichazo de reglas
+[01:19:16] [Server thread/INFO]: <JeamByOne> xd
+[01:19:18] [Server thread/INFO]: <JeamByOne> el lloros
+[01:19:21] [Server thread/INFO]: <JeamByOne> nunca faltan
+[01:19:23] [Server thread/INFO]: <MrSGR22> y la clase de hoy fue el mae dandonos una charla y al final un diagnostico para ver que sabiamos
+[01:19:52] [Server thread/INFO]: <MrSGR22> lo peor es que yo también pensaba eso del profe pero hoy entendí que no era 100% culpa del mae
+[01:20:13] [Server thread/INFO]: <MrSGR22> y supuestamente aunque nos cambien de profe pues siguen las reglas esas
+[01:20:30] [Server thread/INFO]: <MrSGR22> entonces nuestro grupo ya quedó manchado en el expediente xdd
+[01:21:12] [Server thread/INFO]: <JeamByOne> q mala suerte
+[01:21:19] [Server thread/INFO]: <JeamByOne> la 11-2 de la u
+[01:21:21] [Server thread/INFO]: <JeamByOne> estan manchados
+[01:21:24] [Server thread/INFO]: <JeamByOne> de por vida
+[01:21:55] [Server thread/INFO]: <MrSGR22> tengo miedo pardo
+[01:22:09] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[01:22:15] [Server thread/INFO]: [Ball Stickers] Salamence (Slot 6) sent out
+[01:22:18] [Server thread/WARN]: Entity PokemonEntity['Salamence'/30512, l='ServerLevel[world]', x=-7700.80, y=191.00, z=2194.42, removed=DISCARDED] wasn't found in section class_4076{x=-482, y=11, z=137} (destroying due to DISCARDED)
+[01:22:19] [Server thread/INFO]: [Ball Stickers] Toedscruel (Slot 5) sent out
+[01:22:22] [Server thread/WARN]: Entity PokemonEntity['Toedscruel'/30533, l='ServerLevel[world]', x=-7698.91, y=191.00, z=2196.42, removed=DISCARDED] wasn't found in section class_4076{x=-482, y=11, z=137} (destroying due to DISCARDED)
+[01:22:26] [Server thread/INFO]: [Ball Stickers] Toedscruel (Slot 5) sent out
+[01:23:03] [Server thread/WARN]: Entity PokemonEntity['Toedscruel'/30568, l='ServerLevel[world]', x=-7698.76, y=191.00, z=2197.34, removed=DISCARDED] wasn't found in section class_4076{x=-482, y=11, z=137} (destroying due to DISCARDED)
+[01:23:28] [Server thread/INFO]: <MrSGR22> a gengar le mejoraron animaciones
+[01:23:40] [Server thread/INFO]: <JeamByOne> a varios
+[01:23:46] [Server thread/INFO]: <JeamByOne> las animaciones de caminar las arreglaron
+[01:23:49] [Server thread/INFO]: <JeamByOne> de muchos
+[01:24:00] [Server thread/INFO]: <MrSGR22> ahora el psychotimido saca la lengua cuando ataca
+[01:24:07] [Server thread/INFO]: <MrSGR22> bien insano
+[01:25:05] [Server thread/INFO]: [Ball Stickers] Charizard (Slot 6) sent out
+[01:25:05] [Server thread/WARN]: Entity PokemonEntity['Gengar'/30459, l='ServerLevel[world]', x=-1211.83, y=73.00, z=-3383.27, removed=DISCARDED] wasn't found in section class_4076{x=-76, y=4, z=-212} (destroying due to DISCARDED)
+[01:25:25] [Server thread/INFO]: <MrSGR22> wtf siento que charizard es más rápido volando
+[01:25:39] [Server thread/INFO]: <JeamByOne> ah si tambien hicieron cambios
+[01:25:49] [Server thread/INFO]: <JeamByOne> pero las monturas mas rapidas ahora son los legendarios
+[01:26:31] [Server thread/INFO]: <MrSGR22> no me merezco a los creadores
+[01:26:40] [Server thread/INFO]: [Ball Stickers] Toedscruel (Slot 5) sent out
+[01:26:53] [Server thread/INFO]: <MrSGR22> suave deme un momento, cm punk esta entrando
+[01:26:54] [Server thread/INFO]: [Ball Stickers] Garchomp (Slot 2) sent out
+[01:27:25] [Server thread/WARN]: Entity PokemonEntity['Roxy'/35018, l='ServerLevel[world]', x=-7685.08, y=173.00, z=2213.93, removed=DISCARDED] wasn't found in section class_4076{x=-481, y=10, z=138} (destroying due to DISCARDED)
+[01:27:27] [Server thread/WARN]: Entity PokemonEntity['Toedscruel'/34568, l='ServerLevel[world]', x=-7686.95, y=173.00, z=2214.55, removed=DISCARDED] wasn't found in section class_4076{x=-481, y=10, z=138} (destroying due to DISCARDED)
+[01:28:07] [Server thread/WARN]: JeamByOne moved too quickly! 7.946042056561055,0.0,-6.14435573460878
+[01:28:51] [Server thread/INFO]: [Ball Stickers] Toedscruel (Slot 5) sent out
+[01:33:06] [Server thread/INFO]: Maximum spawn attempts reached. Skipping this alpha spawn
+[01:33:20] [Server thread/INFO]: <JeamByOne> :nyanPls:
+[01:33:49] [Server thread/INFO]: <JeamByOne> tio ojala morir ahogado en unos muslos
+[01:34:02] [Server thread/INFO]: <JeamByOne> de una gotica
+[01:34:04] [Server thread/INFO]: <JeamByOne> rubia
+[01:34:05] [Server thread/INFO]: <JeamByOne> god
+[01:34:50] [Server thread/INFO]: <MrSGR22> que pedazo entrada que tuvo
+[01:35:02] [Server thread/INFO]: <MrSGR22> salió con la canción de los chicago bulls
+[01:35:02] [Server thread/INFO]: <JeamByOne> es lo que hay
+[01:35:07] [Server thread/INFO]: <JeamByOne> god
+[01:35:21] [Server thread/INFO]: <MrSGR22> gotica rubia? DONDE
+[01:36:36] [Server thread/WARN]: Charizard (vehicle of MrSGR22) moved too quickly! 5.120067160083977,-0.10739206220249287,9.066798793954149
+[01:36:36] [Server thread/WARN]: Charizard (vehicle of MrSGR22) moved too quickly! 5.564189072841259,-0.12349803849001262,9.905129061235584
+[01:36:36] [Server thread/WARN]: Charizard (vehicle of MrSGR22) moved too quickly! 6.001949587752847,-0.1403134210810606,10.744822197280882
+[01:36:36] [Server thread/WARN]: Charizard (vehicle of MrSGR22) moved too quickly! 6.432836716679844,-0.15776078558972984,11.585583388304258
+[01:36:36] [Server thread/WARN]: Charizard (vehicle of MrSGR22) moved too quickly! 6.857129497744381,-0.17572079554260256,12.426982510472953
+[01:36:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[01:36:41] [Server thread/WARN]: Charizard (vehicle of MrSGR22) moved too quickly! 3.846299530674969,-0.36231337472266034,9.692915811704097
+[01:36:41] [Server thread/WARN]: Charizard (vehicle of MrSGR22) moved too quickly! 4.161088995867317,-0.40245060354671125,10.58316525745522
+[01:36:41] [Server thread/WARN]: Charizard (vehicle of MrSGR22) moved too quickly! 4.468972164228035,-0.44474709178618355,11.473495744757884
+[01:36:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:36:46] [Server thread/INFO]: df<--[HERE]
+[01:37:40] [Server thread/INFO]: <MrSGR22> yo tengo un examen de inglés oral el miércoles con Lopez y aún no se que vamos a decir xdd
+[01:37:55] [Server thread/INFO]: <JeamByOne> hablen de su adiccion por las tetas
+[01:38:04] [Server thread/INFO]: <MrSGR22> no es mala eh
+[01:38:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3409ms or 68 ticks behind
+[01:38:18] [Server thread/INFO]: <MrSGR22> los mobs nos raidearon la casa...
+[01:38:32] [Server thread/INFO]: <JeamByOne> hostia
+[01:38:34] [Server thread/INFO]: <JeamByOne> que pco de nicas
+[01:38:38] [Server thread/INFO]: <JeamByOne> en mi patio
+[01:38:41] [Server thread/WARN]: Entity PokemonEntity['Charizard'/32710, l='ServerLevel[world]', x=-271.24, y=64.00, z=-188.09, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=4, z=-12} (destroying due to DISCARDED)
+[01:38:43] [Server thread/INFO]: <JeamByOne> NIÑOS
+[01:38:44] [Server thread/INFO]: MrSGR22 was slain by Zombie
+[01:38:44] [Server thread/INFO]: [MrSGR22: [LD] You died at -273, 65, -189, in minecraft:overworld.]
+[01:38:47] [Server thread/INFO]: <JeamByOne> XD
+[01:38:49] [Server thread/INFO]: <JeamByOne> ajajjaja
+[01:38:51] [Server thread/INFO]: <JeamByOne> AJJAJAJA
+[01:38:53] [Server thread/INFO]: <JeamByOne> LO VI MORIR
+[01:38:53] [Server thread/INFO]: [MrSGR22: Teleported MrSGR22 to -272.500000, 63.500000, -189.500000]
+[01:38:55] [Server thread/INFO]: <JeamByOne> EN CAMARA LENTA
+[01:38:56] [Server thread/INFO]: <JeamByOne> XDD
+[01:39:06] [Server thread/INFO]: <MrSGR22> me macheteó un nica
+[01:39:26] [Server thread/INFO]: <MrSGR22> quemense hijos de puta
+[01:39:36] [Server thread/INFO]: <JeamByOne> pq durmio
+[01:39:39] [Server thread/INFO]: <JeamByOne> me cago en su abuelo
+[01:39:45] [Server thread/INFO]: <JeamByOne> no necesitaba que durmiera
+[01:39:54] [Server thread/INFO]: <JeamByOne> ahora voy a dejar que se lo qleen esos nicas
+[01:41:02] [Server thread/INFO]: <MrSGR22> soy luffy tio
+[01:42:06] [Server thread/INFO]: Loaded 6 Pokemon from party (creative=false)
+[01:42:06] [Server thread/INFO]: Sent initial sync data to client
+[01:42:20] [Server thread/INFO]: [Ball Stickers] Metang (Slot 3) sent out
+[01:42:23] [Server thread/WARN]: Entity PokemonEntity['Metang'/44599, l='ServerLevel[world]', x=-254.23, y=58.00, z=-188.03, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[01:42:24] [Server thread/INFO]: Loaded 6 Pokemon from party (creative=false)
+[01:42:24] [Server thread/INFO]: Sent initial sync data to client
+[01:42:30] [Server thread/INFO]: <JeamByOne> :VEOSOLOSEXO:
+[01:42:36] [Server thread/INFO]: Loaded 6 Pokemon from party (creative=false)
+[01:42:36] [Server thread/INFO]: Sent initial sync data to client
+[01:42:43] [Server thread/INFO]: Applied sticker ball_stickers:heart_seal_a to Pokemon e75c7614-dc24-4821-9e02-0fb8a85aa628 at (0.00952381, -0.00952381)
+[01:42:51] [Server thread/INFO]: [Ball Stickers] Metang (Slot 3) sent out
+[01:42:54] [Server thread/WARN]: Entity PokemonEntity['Metang'/44744, l='ServerLevel[world]', x=-254.86, y=58.00, z=-187.42, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[01:42:54] [Server thread/INFO]: [Ball Stickers] Metang (Slot 3) sent out
+[01:42:57] [Server thread/WARN]: Entity PokemonEntity['Metang'/44760, l='ServerLevel[world]', x=-254.47, y=58.00, z=-188.24, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[01:42:57] [Server thread/INFO]: [Ball Stickers] Metang (Slot 3) sent out
+[01:43:00] [Server thread/WARN]: Entity PokemonEntity['Metang'/44777, l='ServerLevel[world]', x=-254.65, y=58.00, z=-187.47, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[01:43:00] [Server thread/INFO]: [Ball Stickers] Goomy (Slot 5) sent out
+[01:43:03] [Server thread/WARN]: Entity PokemonEntity['Goomy'/44790, l='ServerLevel[world]', x=-254.68, y=58.00, z=-187.27, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[01:43:04] [Server thread/INFO]: [Ball Stickers] Goomy (Slot 5) sent out
+[01:43:08] [Server thread/WARN]: Entity PokemonEntity['Goomy'/44805, l='ServerLevel[world]', x=-254.62, y=58.00, z=-187.33, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[01:43:30] [Server thread/INFO]: [Ball Stickers] Goomy (Slot 5) sent out
+[01:43:33] [Server thread/WARN]: Entity PokemonEntity['Goomy'/44919, l='ServerLevel[world]', x=-252.14, y=58.00, z=-186.46, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[01:47:22] [Server thread/INFO]: [Ball Stickers] Toedscruel (Slot 5) sent out
+[01:47:50] [Server thread/WARN]: Entity PokemonEntity['Toedscruel'/45972, l='ServerLevel[world]', x=-7667.01, y=161.00, z=2211.32, removed=DISCARDED] wasn't found in section class_4076{x=-480, y=10, z=138} (destroying due to DISCARDED)
+[01:50:54] [Server thread/INFO]: [Ball Stickers] Toedscruel (Slot 5) sent out
+[01:51:15] [Server thread/WARN]: Entity PokemonEntity['Toedscruel'/47319, l='ServerLevel[world]', x=-7686.76, y=174.00, z=2207.60, removed=DISCARDED] wasn't found in section class_4076{x=-481, y=10, z=137} (destroying due to DISCARDED)
+[01:51:57] [Server thread/INFO]: <JeamByOne> :FocaEsperandoQueRubiusPrendaLiveStreamEnTwitchParaSusViewersYjugarVideojuegos:
+[01:53:49] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[02:00:19] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[02:03:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:03:38] [Server thread/INFO]: ewffe<--[HERE]
+[02:04:37] [Server thread/INFO]: <JeamByOne> TETAS
+[02:05:09] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[02:05:19] [Server thread/INFO]: [Ball Stickers] Drifloon (Slot 3) sent out
+[02:07:27] [Server thread/INFO]: [BattlePositions][POKEMON] Battle 8ad276e4-0c71-4b98-b63a-5ff5555e6dd9 pre-start teleport p1a a1d0e616-de46-4063-bfc5-d012b4703887 (Drifblim) (-7681.35, 173.00, 2207.31) -> (-7677.46, 166.00, 2191.19) (success=true)
+[02:08:37] [Server thread/INFO]: <MrSGR22> no se que piedra hacerme
+[02:08:43] [Server thread/INFO]: <JeamByOne> PIEDRERO
+[02:08:47] [Server thread/INFO]: <JeamByOne> MALDITO
+[02:09:48] [Server thread/INFO]: <MrSGR22> xdd
+[02:09:48] [Server thread/INFO]: <JeamByOne> que gorro de pajero
+[02:09:56] [Server thread/INFO]: <MrSGR22> es de luffy entonces sí xd
+[02:10:58] [Server thread/INFO]: <MrSGR22> será que me hago la de greninja
+[02:11:34] [Server thread/INFO]: <MrSGR22> ya consiguió a su porygon de mierda?
+[02:11:42] [Server thread/INFO]: <JeamByOne> no
+[02:11:55] [Server thread/INFO]: <JeamByOne> no le da la gana spawnear
+[02:11:55] [Server thread/INFO]: [Ball Stickers] Drifblim (Slot 3) sent out
+[02:11:59] [Server thread/WARN]: Entity PokemonEntity['Drifblim'/54776, l='ServerLevel[world]', x=-7683.50, y=173.50, z=2212.50, removed=DISCARDED] wasn't found in section class_4076{x=-481, y=10, z=138} (destroying due to DISCARDED)
+[02:12:06] [Server thread/INFO]: <MrSGR22> se lo voy a robar
+[02:12:19] [Server thread/INFO]: [Ball Stickers] Gabite (Slot 4) sent out
+[02:12:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:12:36] [Server thread/INFO]: 65u}<--[HERE]
+[02:12:50] [Server thread/WARN]: Entity PokemonEntity['Gabite'/54997, l='ServerLevel[world]', x=-234.50, y=63.00, z=-163.99, removed=DISCARDED] wasn't found in section class_4076{x=-15, y=3, z=-11} (destroying due to DISCARDED)
+[02:13:01] [Server thread/INFO]: <MrSGR22> que saico ya cambiaron los huevos
+[02:13:12] [Server thread/INFO]: Maximum spawn attempts reached. Skipping this alpha spawn
+[02:14:04] [Server thread/INFO]: <MrSGR22> forma o tamaño?
+[02:14:18] [Server thread/INFO]: <JeamByOne> pene
+[02:14:19] [Server thread/INFO]: <JeamByOne> negro
+[02:14:21] [Server thread/INFO]: <JeamByOne> y grande
+[02:14:27] [Server thread/INFO]: <MrSGR22> una respuesta valida
+[02:14:37] [Server thread/INFO]: <JeamByOne> uso de mi libre albedrio
+[02:14:58] [Server thread/INFO]: <MrSGR22> que pasa con este pocoton de mobs
+[02:15:24] [Server thread/INFO]: <MrSGR22> voy a estar afk como 20 minutos, ya va a empezar la EC
+[02:15:28] [Server thread/INFO]: <JeamByOne> ok
+[02:32:11] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[02:37:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:37:04] [Server thread/INFO]: tet<--[HERE]
+[02:39:02] [Server thread/INFO]: [Ball Stickers] Drifblim (Slot 3) sent out
+[02:40:20] [Server thread/WARN]: Entity PokemonEntity['Drifblim'/63169, l='ServerLevel[world]', x=-7692.09, y=173.01, z=2219.79, removed=DISCARDED] wasn't found in section class_4076{x=-481, y=10, z=138} (destroying due to DISCARDED)
+[02:42:00] [Server thread/INFO]: [JeamByOne: Gave 10 experience levels to JeamByOne]
+[02:53:12] [Server thread/INFO]: Maximum spawn attempts reached. Skipping this alpha spawn
+[02:56:50] [Server thread/INFO]: [Ball Stickers] Drifblim (Slot 3) sent out
+[02:56:53] [Server thread/WARN]: Entity PokemonEntity['Drifblim'/68939, l='ServerLevel[world]', x=-7685.50, y=169.00, z=2200.50, removed=DISCARDED] wasn't found in section class_4076{x=-481, y=10, z=137} (destroying due to DISCARDED)
+[02:57:22] [Server thread/INFO]: [Ball Stickers] Drifblim (Slot 3) sent out
+[02:59:12] [Server thread/WARN]: Entity PokemonEntity['Drifblim'/69136, l='ServerLevel[world]', x=-7683.56, y=173.01, z=2204.10, removed=DISCARDED] wasn't found in section class_4076{x=-481, y=10, z=137} (destroying due to DISCARDED)
+[02:59:12] [Server thread/INFO]: [Ball Stickers] Drifblim (Slot 3) sent out
+[03:00:20] [Server thread/WARN]: Entity PokemonEntity['Drifblim'/70139, l='ServerLevel[world]', x=-7687.67, y=169.00, z=2200.93, removed=DISCARDED] wasn't found in section class_4076{x=-481, y=10, z=137} (destroying due to DISCARDED)
+[03:00:20] [Server thread/INFO]: [Ball Stickers] Toedscruel (Slot 5) sent out
+[03:00:54] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[03:00:55] [Server thread/WARN]: Entity PokemonEntity['Toedscruel'/70463, l='ServerLevel[world]', x=-7686.33, y=169.00, z=2197.29, removed=DISCARDED] wasn't found in section class_4076{x=-481, y=10, z=137} (destroying due to DISCARDED)
+[03:01:23] [Server thread/INFO]: Loaded 6 Pokemon from party (creative=false)
+[03:01:23] [Server thread/INFO]: Sent initial sync data to client
+[03:02:12] [Server thread/INFO]: Loaded 6 Pokemon from party (creative=false)
+[03:02:12] [Server thread/INFO]: Sent initial sync data to client
+[03:02:17] [Server thread/INFO]: Applied sticker ball_stickers:heart_seal_b to Pokemon 603f1555-3c33-4c35-88b9-e8b3e2c640fc at (-0.3809524, -0.84761906)
+[03:02:20] [Server thread/INFO]: Updated ball settings for Pokemon 603f1555-3c33-4c35-88b9-e8b3e2c640fc: preset=0
+[03:02:21] [Server thread/INFO]: Updated ball settings for Pokemon 603f1555-3c33-4c35-88b9-e8b3e2c640fc: preset=5
+[03:02:29] [Server thread/INFO]: [Ball Stickers] Zoroark (Slot 1) sent out
+[03:02:33] [Server thread/INFO]: <MrSGR22> y esa rateada?
+[03:02:36] [Server thread/WARN]: Entity PokemonEntity['Zoroark'/70992, l='ServerLevel[world]', x=-251.97, y=58.00, z=-186.93, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[03:02:40] [Server thread/INFO]: <JeamByOne> que rateada
+[03:02:42] [Server thread/INFO]: <JeamByOne> callese
+[03:02:43] [Server thread/INFO]: <JeamByOne> maricon
+[03:02:45] [Server thread/INFO]: <MrSGR22> Ganó randy orton siuuu
+[03:02:54] [Server thread/INFO]: <JeamByOne> vea
+[03:02:56] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[03:03:08] [Server thread/INFO]: <MrSGR22> me hizo un pokenav?
+[03:03:11] [Server thread/INFO]: <JeamByOne> dos gordas
+[03:03:13] [Server thread/INFO]: [Ball Stickers] Bellibolt (Slot 1) sent out
+[03:03:17] [Server thread/INFO]: [Ball Stickers] Rellor (Slot 2) sent out
+[03:03:24] [Server thread/INFO]: [Ball Stickers] Swablu (Slot 3) sent out
+[03:03:24] [Server thread/INFO]: <MrSGR22> que es esa mierda
+[03:03:26] [Server thread/INFO]: [Ball Stickers] Poochyena (Slot 4) sent out
+[03:03:34] [Server thread/INFO]: [Ball Stickers] Larvitar (Slot 5) sent out
+[03:03:36] [Server thread/INFO]: <MrSGR22> wtf
+[03:03:40] [Server thread/INFO]: <MrSGR22> que rata
+[03:03:50] [Server thread/INFO]: <MrSGR22> este no era semi?
+[03:03:51] [Server thread/WARN]: Entity PokemonEntity['Poochyena'/71160, l='ServerLevel[world]', x=-261.77, y=58.00, z=-188.39, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=3, z=-12} (destroying due to DISCARDED)
+[03:03:52] [Server thread/WARN]: Entity PokemonEntity['Rellor'/71128, l='ServerLevel[world]', x=-261.06, y=58.00, z=-186.08, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=3, z=-12} (destroying due to DISCARDED)
+[03:03:52] [Server thread/WARN]: Entity PokemonEntity['Bellibolt'/71104, l='ServerLevel[world]', x=-259.87, y=58.00, z=-189.24, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=3, z=-12} (destroying due to DISCARDED)
+[03:03:58] [Server thread/INFO]: <JeamByOne> s
+[03:03:59] [Server thread/INFO]: <MrSGR22> para mi
+[03:04:01] [Server thread/INFO]: <JeamByOne> np
+[03:04:03] [Server thread/INFO]: <JeamByOne> no
+[03:04:09] [Server thread/WARN]: Entity PokemonEntity['Larvitar'/71188, l='ServerLevel[world]', x=-259.77, y=58.00, z=-190.81, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=3, z=-12} (destroying due to DISCARDED)
+[03:04:12] [Server thread/WARN]: Entity PokemonEntity['Swablu'/71146, l='ServerLevel[world]', x=-260.28, y=58.00, z=-186.07, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=3, z=-12} (destroying due to DISCARDED)
+[03:04:15] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[03:04:23] [Server thread/INFO]: <MrSGR22> el dragapult vale mas
+[03:04:34] [Server thread/INFO]: <MrSGR22> me lo tiene que terminar de pagar
+[03:04:40] [Server thread/INFO]: <JeamByOne> me vale 3 hectareas de verga
+[03:04:46] [Server thread/INFO]: <JeamByOne> tome su pago
+[03:04:50] [Server thread/INFO]: <MrSGR22> las que tiene enterrada su madre
+[03:05:10] [Server thread/INFO]: <JeamByOne> feliz
+[03:05:26] [Server thread/INFO]: <JeamByOne> que ludopata
+[03:05:30] [Server thread/INFO]: <JeamByOne> le voy a abrir un hilo en x
+[03:05:58] [Server thread/INFO]: <MrSGR22> POV: eres rubius
+[03:11:47] [Server thread/INFO]: <JeamByOne> lo que haran los medios mañana con este metraje no sera normal
+[03:12:07] [Server thread/INFO]: <MrSGR22> ya mi reputación está dañada
+[03:13:01] [Server thread/INFO]: <MrSGR22> bro me los robó
+[03:14:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:14:55] [Server thread/INFO]: tbtgh<--[HERE]
+[03:15:05] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[03:15:31] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[03:16:28] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[03:18:54] [Server thread/INFO]: <MrSGR22> perdí todo
+[03:19:05] [Server thread/INFO]: <MrSGR22> me gasté mi dinero
+[03:19:13] [Server thread/INFO]: <JeamByOne> se gasto todo lo que le di?
+[03:19:18] [Server thread/INFO]: <MrSGR22> si
+[03:19:23] [Server thread/INFO]: <MrSGR22> xdd
+[03:19:26] [Server thread/INFO]: <JeamByOne> estas enfermo bruce wayne
+[03:19:37] [Server thread/INFO]: <MrSGR22> ahora a abrirlos
+[03:21:41] [Server thread/INFO]: MrSGR22 has made the advancement [The Rolling Stone]
+[03:21:49] [Server thread/INFO]: <JeamByOne> XD
+[03:21:53] [Server thread/INFO]: <JeamByOne> que logro
+[03:22:03] [Server thread/INFO]: <MrSGR22> los paint it black
+[03:23:45] [Server thread/INFO]: JeamByOne has completed the challenge [Double Double Toil & Trouble]
+[03:24:20] [Server thread/INFO]: <MrSGR22> que pichazo de objetos
+[03:25:51] [Server thread/INFO]: [Ball Stickers] Metang (Slot 3) sent out
+[03:25:58] [Server thread/INFO]: [Ball Stickers] Zoroark (Slot 1) sent out
+[03:26:04] [Server thread/WARN]: Entity PokemonEntity['Zoroark'/76103, l='ServerLevel[world]', x=-247.36, y=58.00, z=-196.84, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-13} (destroying due to DISCARDED)
+[03:26:52] [Server thread/WARN]: Entity PokemonEntity['Metang'/76071, l='ServerLevel[world]', x=-264.35, y=63.00, z=-223.51, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=3, z=-14} (destroying due to DISCARDED)
+[03:26:53] [Server thread/INFO]: [Ball Stickers] Metang (Slot 3) sent out
+[03:27:28] [Server thread/WARN]: Entity PokemonEntity['Metang'/76246, l='ServerLevel[world]', x=-249.00, y=63.09, z=-214.50, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-14} (destroying due to DISCARDED)
+[03:27:29] [Server thread/INFO]: [Ball Stickers] Metang (Slot 3) sent out
+[03:27:30] [Server thread/INFO]: <JeamByOne> no}
+[03:27:33] [Server thread/INFO]: <JeamByOne> no lo mate
+[03:27:36] [Server thread/WARN]: Entity PokemonEntity['Metang'/76386, l='ServerLevel[world]', x=-250.00, y=62.02, z=-217.50, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-14} (destroying due to DISCARDED)
+[03:27:48] [Server thread/INFO]: <MrSGR22> pq
+[03:27:58] [Server thread/INFO]: <JeamByOne> pq me sirve para algo de los aldeanos
+[03:28:01] [Server thread/INFO]: <JeamByOne> dejelo ahi
+[03:28:03] [Server thread/INFO]: <MrSGR22> ok
+[03:32:07] [Server thread/INFO]: <MrSGR22> que saico hay otros objetos activadores de megapiedra
+[03:32:13] [Server thread/INFO]: <JeamByOne> dejelo ahi
+[03:32:15] [Server thread/INFO]: <JeamByOne> q
+[03:32:15] [Server thread/INFO]: <MrSGR22> esta el anillo de steven
+[03:32:16] [Server thread/INFO]: <JeamByOne> si
+[03:32:19] [Server thread/INFO]: <JeamByOne> no sabia
+[03:32:35] [Server thread/INFO]: <MrSGR22> es nuevo creo
+[03:33:11] [Server thread/INFO]: ¡Un Pokemon Alpha ha aparecido cerca de alguien!
+[03:35:15] [Server thread/INFO]: <JeamByOne> uwu
+[03:35:19] [Server thread/INFO]: <MrSGR22> ...
+[03:35:38] [Server thread/INFO]: <JeamByOne> un ninetales fuera de casa
+[03:35:48] [Server thread/INFO]: <MrSGR22> es naruto
+[03:36:04] [Server thread/INFO]: <JeamByOne> naruto es un therian?
+[03:36:18] [Server thread/INFO]: <MrSGR22> tecnicamente si
+[03:37:19] [Server thread/INFO]: <MrSGR22> fosil tapa
+[03:37:22] [Server thread/INFO]: <MrSGR22> que es
+[03:37:33] [Server thread/INFO]: <JeamByOne> busque
+[03:37:36] [Server thread/INFO]: <JeamByOne> que me cree
+[03:37:39] [Server thread/INFO]: <JeamByOne> una wiki
+[03:38:23] [Server thread/INFO]: <MrSGR22> si
+[03:38:29] [Server thread/INFO]: <MrSGR22> es una tortuga de mierda
+[03:39:09] [Server thread/INFO]: <MrSGR22> ostia el fosil tapa
+[03:39:19] [Server thread/INFO]: <MrSGR22> pluma perdon xd
+[03:39:21] [Server thread/INFO]: <JeamByOne> me salio antes
+[03:39:28] [Server thread/INFO]: <MrSGR22> es el pajaro raro
+[03:39:35] [Server thread/INFO]: <JeamByOne> tengo 11 masterballs
+[03:39:37] [Server thread/INFO]: <JeamByOne> XD
+[03:40:00] [Server thread/INFO]: <MrSGR22> y no comparte
+[03:40:25] [Server thread/INFO]: <MrSGR22> gracias
+[03:40:37] [Server thread/INFO]: <MrSGR22> fosil craneo para el calvo
+[03:41:24] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[03:41:40] [Server thread/INFO]: <MrSGR22> opa kabutops
+[03:41:42] [Server thread/INFO]: <JeamByOne> no vea lo que voy a hace porfa
+[03:41:45] [Server thread/INFO]: <JeamByOne> es por fines lucrativos
+[03:41:49] [Server thread/INFO]: [Ball Stickers] Garchomp (Slot 2) sent out
+[03:41:50] [Server thread/WARN]: Entity PokemonEntity['Roxy'/79140, l='ServerLevel[world]', x=-244.71, y=58.00, z=-194.29, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-13} (destroying due to DISCARDED)
+[03:41:51] [Server thread/INFO]: [Ball Stickers] Miltank (Slot 1) sent out
+[03:42:06] [Server thread/INFO]: <MrSGR22> sin animo de lucro
+[03:42:10] [Server thread/INFO]: <MrSGR22> uff como ordeña
+[03:42:31] [Server thread/WARN]: Entity PokemonEntity['Miltank'/79153, l='ServerLevel[world]', x=-249.99, y=58.00, z=-185.58, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[03:43:04] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[03:43:21] [Server thread/WARN]: Entity PokemonEntity['Greninja'/79452, l='ServerLevel[world]', x=-271.82, y=64.00, z=-193.61, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=4, z=-13} (destroying due to DISCARDED)
+[03:44:02] [Server thread/INFO]: <MrSGR22> y si metemos un mod de sexo
+[03:44:21] [Server thread/INFO]: <MrSGR22> hola
+[03:44:23] [Server thread/INFO]: <JeamByOne> voy a meter un mod realista de ordeñar a miltank
+[03:48:17] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[03:48:29] [Server thread/INFO]: Loaded 6 Pokemon from party (creative=false)
+[03:48:29] [Server thread/INFO]: Sent initial sync data to client
+[03:48:31] [Server thread/INFO]: Updated ball settings for Pokemon 603f1555-3c33-4c35-88b9-e8b3e2c640fc: preset=1
+[03:48:34] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 3) sent out
+[03:48:36] [Server thread/WARN]: Entity PokemonEntity['Greninja'/80819, l='ServerLevel[world]', x=-249.68, y=58.00, z=-190.99, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[03:48:37] [Server thread/INFO]: [Ball Stickers] Zoroark (Slot 1) sent out
+[03:48:42] [Server thread/INFO]: Loaded 6 Pokemon from party (creative=false)
+[03:48:42] [Server thread/INFO]: Sent initial sync data to client
+[03:48:47] [Server thread/INFO]: Updated ball settings for Pokemon 603f1555-3c33-4c35-88b9-e8b3e2c640fc: preset=4
+[03:48:50] [Server thread/WARN]: Entity PokemonEntity['Zoroark'/80827, l='ServerLevel[world]', x=-249.68, y=58.00, z=-190.99, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[03:48:50] [Server thread/INFO]: [Ball Stickers] Zoroark (Slot 1) sent out
+[03:48:57] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[03:48:58] [Server thread/WARN]: Entity PokemonEntity['Zoroark'/80856, l='ServerLevel[world]', x=-250.26, y=58.00, z=-189.92, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[03:48:59] [Server thread/INFO]: Loaded 6 Pokemon from party (creative=false)
+[03:49:00] [Server thread/INFO]: Sent initial sync data to client
+[03:49:08] [Server thread/INFO]: <MrSGR22> haga lo de los fosiles
+[03:49:09] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[03:49:22] [Server thread/INFO]: MrSGR22 was shot by JeamByOne
+[03:49:22] [Server thread/INFO]: [MrSGR22: [LD] You died at -252, 59, -199, in minecraft:overworld.]
+[03:49:27] [Server thread/INFO]: <MrSGR22> IMBECIL
+[03:49:33] [Server thread/INFO]: <JeamByOne> si soy
+[03:49:38] [Server thread/INFO]: <JeamByOne> nadie me da ordenes
+[03:49:45] [Server thread/INFO]: <MrSGR22> GILIPOLLAS
+[03:49:50] [Server thread/INFO]: <MrSGR22> SUBNORMAL DE MIERDA
+[03:49:51] [Server thread/INFO]: <JeamByOne> uwu
+[03:49:53] [Server thread/INFO]: <MrSGR22> MIS NIVELES
+[03:50:04] [Server thread/INFO]: <JeamByOne> es igual que la rata noruega
+[03:50:09] [Server thread/INFO]: <JeamByOne> muere hasta por respirar
+[03:50:54] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 3) sent out
+[03:50:54] [Server thread/INFO]: JeamByOne was killed
+[03:50:54] [Server thread/INFO]: [JeamByOne: [LD] You died at -279, 62, -197, in minecraft:overworld.]
+[03:50:54] [Server thread/INFO]: [MrSGR22: Killed JeamByOne]
+[03:51:04] [Server thread/INFO]: [JeamByOne: Made MrSGR22 no longer a server operator]
+[03:52:44] [Server thread/INFO]: [JeamByOne: Gave 22 experience levels to JeamByOne]
+[03:52:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:52:48] [Server thread/INFO]: ergteg<--[HERE]
+[03:53:28] [Server thread/INFO]: <MrSGR22> mi primera master chavales
+[03:53:52] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 3) sent out
+[03:54:11] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[03:54:17] [Server thread/WARN]: Entity PokemonEntity['Greninja'/82057, l='ServerLevel[world]', x=-2905.68, y=63.00, z=663.43, removed=DISCARDED] wasn't found in section class_4076{x=-182, y=3, z=41} (destroying due to DISCARDED)
+[03:54:18] [Server thread/INFO]: MrSGR22 has completed the challenge [This will affect the Whiscash Population]
+[03:54:25] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[03:54:46] [Server thread/INFO]: <MrSGR22> 7 masters xd
+[03:54:53] [Server thread/INFO]: <MrSGR22> y 30 caramelos XL
+[03:58:42] [Server thread/INFO]: <JeamByOne> duerma
+[03:58:43] [Server thread/INFO]: <JeamByOne> duerma
+[04:01:33] [c2me-worker-2/WARN]: Empty or non-existent pool: minecraft:
+[04:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[04:01:55] [c2me-worker-1/WARN]: Empty or non-existent pool: minecraft:
+[04:02:39] [c2me-worker-1/WARN]: Empty or non-existent pool: minecraft:
+[04:02:54] [Server thread/WARN]: Entity PokemonEntity['Lapras'/82317, l='ServerLevel[world]', x=-2718.20, y=62.51, z=926.50, removed=DISCARDED] wasn't found in section class_4076{x=-170, y=3, z=57} (destroying due to DISCARDED)
+[04:02:56] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[04:03:13] [c2me-worker-2/WARN]: Empty or non-existent pool: minecraft:
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 8.49155178778119,0.0,5.349686500284633
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 8.986209718303598,0.0,5.878558603648571
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 9.471664080158462,0.0,6.416107091294634
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 9.949578109316917,0.0,6.960524266741231
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 10.421363448585453,0.0,7.510368082295827
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 10.888185863856506,0.0,8.064504577010666
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 11.351016907336998,0.0,8.622028143399916
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 11.81062850085209,0.0,9.182241073376986
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 12.267642844951297,0.0,9.744595995289387
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 12.72255559663563,0.0,10.308666103944915
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 13.175801750390747,0.0,10.874085323957843
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 13.627704360569624,0.0,11.440584770999976
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 14.078532115517191,0.0,12.007943757138378
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 14.52849963703784,0.0,12.575987681147694
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 14.977767450896408,0.0,13.144586730405308
+[04:03:15] [Server thread/WARN]: Lapras (vehicle of JeamByOne) moved too quickly! 7.440776814574292,0.0,8.881821964945175
+[04:03:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[04:03:20] [c2me-worker-2/WARN]: Empty or non-existent pool: minecraft:
+[04:03:22] [c2me-worker-1/WARN]: Empty or non-existent pool: minecraft:
+[04:03:47] [c2me-worker-2/WARN]: Empty or non-existent pool: minecraft:
+[04:04:29] [Server thread/WARN]: Entity PokemonEntity['Lapras'/87199, l='ServerLevel[world]', x=-2644.51, y=62.50, z=1191.95, removed=DISCARDED] wasn't found in section class_4076{x=-166, y=3, z=74} (destroying due to DISCARDED)
+[04:05:10] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[04:05:39] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[04:05:42] [Server thread/WARN]: Entity PokemonEntity['Lapras'/88691, l='ServerLevel[world]', x=-2644.31, y=55.62, z=1195.43, removed=DISCARDED] wasn't found in section class_4076{x=-166, y=3, z=74} (destroying due to DISCARDED)
+[04:05:44] [Server thread/INFO]: [Ball Stickers] Mantine (Slot 3) sent out
+[04:07:20] [Server thread/WARN]: Entity PokemonEntity['Mantine'/88836, l='ServerLevel[world]', x=-2632.94, y=61.02, z=1158.50, removed=DISCARDED] wasn't found in section class_4076{x=-165, y=3, z=72} (destroying due to DISCARDED)
+[04:07:21] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[04:07:27] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[04:07:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:07:53] [Server thread/INFO]: thf<--[HERE]
+[04:08:29] [Server thread/WARN]: Entity PokemonEntity['Lapras'/89445, l='ServerLevel[world]', x=-2303.57, y=64.00, z=1044.91, removed=DISCARDED] wasn't found in section class_4076{x=-144, y=4, z=65} (destroying due to DISCARDED)
+[04:09:39] [Server thread/INFO]: <JeamByOne> que guapas las raids tio
+[04:09:46] [Server thread/INFO]: <JeamByOne> me meti a una por curiosidad
+[04:09:48] [Server thread/INFO]: <JeamByOne> y estan
+[04:09:49] [Server thread/INFO]: <JeamByOne> bofff
+[04:10:04] [Server thread/INFO]: [Ball Stickers] Salamence (Slot 6) sent out
+[04:10:18] [Server thread/WARN]: Entity PokemonEntity['Salamence'/91318, l='ServerLevel[world]', x=-2169.50, y=64.05, z=926.50, removed=DISCARDED] wasn't found in section class_4076{x=-136, y=4, z=57} (destroying due to DISCARDED)
+[04:10:20] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[04:10:56] [Server thread/WARN]: Entity PokemonEntity['Lapras'/91571, l='ServerLevel[world]', x=-2185.30, y=62.50, z=935.76, removed=DISCARDED] wasn't found in section class_4076{x=-137, y=3, z=58} (destroying due to DISCARDED)
+[04:12:07] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[04:12:30] [Server thread/WARN]: Entity PokemonEntity['Lapras'/92035, l='ServerLevel[world]', x=-2137.28, y=62.50, z=900.93, removed=DISCARDED] wasn't found in section class_4076{x=-134, y=3, z=56} (destroying due to DISCARDED)
+[04:12:33] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[04:13:16] [Server thread/INFO]: Maximum spawn attempts reached. Skipping this alpha spawn
+[04:13:48] [Server thread/WARN]: Entity PokemonEntity['Lapras'/92212, l='ServerLevel[world]', x=-2184.47, y=62.50, z=858.50, removed=DISCARDED] wasn't found in section class_4076{x=-137, y=3, z=53} (destroying due to DISCARDED)
+[04:13:48] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[04:14:40] [Server thread/WARN]: Entity PokemonEntity['Lapras'/92765, l='ServerLevel[world]', x=-2225.85, y=64.00, z=912.44, removed=DISCARDED] wasn't found in section class_4076{x=-140, y=4, z=57} (destroying due to DISCARDED)
+[04:17:18] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[04:18:43] [Server thread/INFO]: <MrSGR22> bofff digo yo cuando las veo rebotar
+[04:19:24] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[04:19:33] [Server thread/WARN]: Entity PokemonEntity['Greninja'/95511, l='ServerLevel[world]', x=-244.50, y=63.00, z=-164.50, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-11} (destroying due to DISCARDED)
+[04:19:33] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[04:20:29] [Server thread/WARN]: Entity PokemonEntity['Gengar'/95611, l='ServerLevel[world]', x=-244.50, y=64.00, z=-165.50, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=4, z=-11} (destroying due to DISCARDED)
+[04:20:29] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[04:21:54] [Server thread/INFO]: <JeamByOne> duerma porfa
+[04:22:26] [Server thread/WARN]: Entity PokemonEntity['Greninja'/96349, l='ServerLevel[world]', x=-244.50, y=63.00, z=-164.50, removed=KILLED] wasn't found in section class_4076{x=-16, y=3, z=-11} (destroying due to DISCARDED)
+[04:22:28] [Server thread/INFO]: [Ball Stickers] Gabite (Slot 4) sent out
+[04:23:30] [Server thread/WARN]: Entity PokemonEntity['Gabite'/97088, l='ServerLevel[world]', x=-244.50, y=63.00, z=-164.50, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-11} (destroying due to DISCARDED)
+[04:23:30] [Server thread/INFO]: [Ball Stickers] Metang (Slot 3) sent out
+[04:23:45] [Server thread/WARN]: Entity PokemonEntity['Metang'/97373, l='ServerLevel[world]', x=-244.50, y=63.00, z=-164.50, removed=KILLED] wasn't found in section class_4076{x=-16, y=3, z=-11} (destroying due to DISCARDED)
+[04:23:48] [Server thread/INFO]: [Ball Stickers] Charizard (Slot 6) sent out
+[04:24:19] [Server thread/WARN]: Entity PokemonEntity['Charizard'/97437, l='ServerLevel[world]', x=-246.20, y=64.00, z=-165.16, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=4, z=-11} (destroying due to DISCARDED)
+[04:24:58] [Server thread/INFO]: <JeamByOne> drakukeo
+[04:25:01] [Server thread/INFO]: <JeamByOne> el empalador
+[04:25:03] [Server thread/INFO]: <JeamByOne> la culeo
+[04:25:05] [Server thread/INFO]: <JeamByOne> dice porfavor
+[04:25:08] [Server thread/INFO]: <JeamByOne> la caliento
+[04:26:38] [Server thread/INFO]: [BattlePositions][POKEMON] Battle c2cbf751-8132-4842-8715-f9f720d090d8 pre-start teleport p1a f0bba536-71a9-4e0a-9244-2cc92e1a3de4 (Lapras) (-3029.50, 62.50, 153.50) -> (-3029.79, 43.69, 174.77) (success=true)
+[04:27:14] [Server thread/WARN]: Entity PokemonEntity['Lapras'/94113, l='ServerLevel[world]', x=-3026.50, y=41.00, z=161.50, removed=DISCARDED] wasn't found in section class_4076{x=-190, y=2, z=10} (destroying due to DISCARDED)
+[04:27:15] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[04:27:53] [Server thread/INFO]: <MrSGR22> drakloak?
+[04:28:05] [Server thread/INFO]: <JeamByOne> q?
+[04:28:18] [Server thread/INFO]: <MrSGR22> nose pense que se referia a eso con drakukeo
+[04:28:30] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[04:28:42] [Server thread/INFO]: <JeamByOne> tio
+[04:28:46] [Server thread/INFO]: <JeamByOne> pregunteme por la novia
+[04:28:53] [Server thread/INFO]: <MrSGR22> y la novia?
+[04:29:10] [Server thread/WARN]: Entity PokemonEntity['Greninja'/98944, l='ServerLevel[world]', x=-219.40, y=64.00, z=-175.60, removed=DISCARDED] wasn't found in section class_4076{x=-14, y=4, z=-11} (destroying due to DISCARDED)
+[04:29:10] [Server thread/INFO]: [Ball Stickers] Gabite (Slot 4) sent out
+[04:29:26] [Server thread/INFO]: <JeamByOne> novia? creo que debes referirte a noibat, pokemon de tipo dragon volador, atacante especial y con alta velocidad
+[04:29:30] [Server thread/WARN]: Entity PokemonEntity['Gabite'/99145, l='ServerLevel[world]', x=-219.41, y=64.00, z=-175.71, removed=DISCARDED] wasn't found in section class_4076{x=-14, y=4, z=-11} (destroying due to DISCARDED)
+[04:29:30] [Server thread/INFO]: [Ball Stickers] Charizard (Slot 6) sent out
+[04:29:34] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[04:29:36] [Server thread/INFO]: <MrSGR22> bañese
+[04:29:42] [Server thread/INFO]: <MrSGR22> se lo encontró?
+[04:30:01] [Server thread/WARN]: Entity PokemonEntity['Charizard'/99220, l='ServerLevel[world]', x=-219.44, y=64.00, z=-176.24, removed=DISCARDED] wasn't found in section class_4076{x=-14, y=4, z=-12} (destroying due to DISCARDED)
+[04:30:01] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[04:30:09] [Server thread/INFO]: <JeamByOne> lo lei ayer a las 2 am y me cague de risa como abuelo jubilado
+[04:30:18] [Server thread/WARN]: Entity PokemonEntity['Gengar'/99386, l='ServerLevel[world]', x=-219.86, y=64.00, z=-176.08, removed=DISCARDED] wasn't found in section class_4076{x=-14, y=4, z=-12} (destroying due to DISCARDED)
+[04:30:18] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[04:30:21] [Server thread/INFO]: <MrSGR22> ...
+[04:30:30] [Server thread/WARN]: Entity PokemonEntity['Lapras'/99259, l='ServerLevel[world]', x=-3021.94, y=40.76, z=167.56, removed=DISCARDED] wasn't found in section class_4076{x=-189, y=2, z=10} (destroying due to DISCARDED)
+[04:30:45] [Server thread/WARN]: Entity PokemonEntity['Greninja'/99466, l='ServerLevel[world]', x=-219.84, y=64.00, z=-175.73, removed=KILLED] wasn't found in section class_4076{x=-14, y=4, z=-11} (destroying due to DISCARDED)
+[04:30:50] [Server thread/INFO]: [Ball Stickers] Gabite (Slot 4) sent out
+[04:31:06] [Server thread/INFO]: <JeamByOne> ud sabia que yo emano un aura demencial?
+[04:31:09] [Server thread/INFO]: <JeamByOne> incomprensible
+[04:31:13] [Server thread/WARN]: Entity PokemonEntity['Gabite'/99634, l='ServerLevel[world]', x=-219.85, y=64.00, z=-175.83, removed=KILLED] wasn't found in section class_4076{x=-14, y=4, z=-11} (destroying due to DISCARDED)
+[04:31:19] [Server thread/INFO]: <JeamByOne> el everest es pequeño al lado mio
+[04:31:21] [Server thread/INFO]: [Ball Stickers] Charizard (Slot 6) sent out
+[04:31:25] [Server thread/INFO]: <MrSGR22> esta drogado?
+[04:31:40] [Server thread/WARN]: Entity PokemonEntity['Charizard'/99769, l='ServerLevel[world]', x=-219.88, y=64.00, z=-176.36, removed=KILLED] wasn't found in section class_4076{x=-14, y=4, z=-12} (destroying due to DISCARDED)
+[04:31:44] [Server thread/INFO]: <JeamByOne> ver un locke de folagor es sinonimo de drogarse?
+[04:31:45] [Server thread/INFO]: <JeamByOne> si
+[04:31:46] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[04:31:47] [Server thread/INFO]: <JeamByOne> entonces si
+[04:31:51] [Server thread/INFO]: <MrSGR22> ok
+[04:32:09] [Server thread/WARN]: Entity PokemonEntity['Gengar'/99864, l='ServerLevel[world]', x=-219.86, y=64.00, z=-176.08, removed=KILLED] wasn't found in section class_4076{x=-14, y=4, z=-12} (destroying due to DISCARDED)
+[04:32:11] [Server thread/INFO]: <JeamByOne> tio es que no es normal
+[04:32:11] [Server thread/INFO]: [Ball Stickers] Metang (Slot 3) sent out
+[04:32:12] [Server thread/INFO]: <JeamByOne> joder
+[04:32:16] [Server thread/INFO]: <JeamByOne> que aura
+[04:32:26] [Server thread/WARN]: Entity PokemonEntity['Metang'/99999, l='ServerLevel[world]', x=-219.85, y=64.00, z=-175.83, removed=KILLED] wasn't found in section class_4076{x=-14, y=4, z=-11} (destroying due to DISCARDED)
+[04:32:29] [Server thread/INFO]: [Ball Stickers] Goomy (Slot 5) sent out
+[04:32:39] [Server thread/WARN]: Entity PokemonEntity['Goomy'/100076, l='ServerLevel[world]', x=-219.82, y=64.00, z=-175.48, removed=KILLED] wasn't found in section class_4076{x=-14, y=4, z=-11} (destroying due to DISCARDED)
+[04:32:43] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[04:32:47] [Server thread/INFO]: Named entity TrainerMob['Dragon Tamer Clinton'/98115, l='ServerLevel[world]', x=-213.89, y=64.00, z=-171.20] died: Dragon Tamer Clinton was slain by MrSGR22
+[04:34:49] [Server thread/INFO]: <JeamByOne> porque asesina a un entrandor
+[04:34:54] [Server thread/INFO]: <JeamByOne> gilipollas
+[04:35:03] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[04:35:31] [Server thread/WARN]: Entity PokemonEntity['Lapras'/100812, l='ServerLevel[world]', x=-3025.50, y=41.00, z=161.50, removed=DISCARDED] wasn't found in section class_4076{x=-190, y=2, z=10} (destroying due to DISCARDED)
+[04:35:55] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[04:36:32] [Server thread/WARN]: Entity PokemonEntity['Lapras'/101034, l='ServerLevel[world]', x=-3029.26, y=40.00, z=162.68, removed=DISCARDED] wasn't found in section class_4076{x=-190, y=2, z=10} (destroying due to DISCARDED)
+[04:36:59] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[04:37:02] [Server thread/INFO]: [BattlePositions][POKEMON] Battle f0023cf2-f3be-4a1b-9360-4ccbb8a347df pre-start teleport p1a f0bba536-71a9-4e0a-9244-2cc92e1a3de4 (Lapras) (-3026.50, 41.00, 159.50) -> (-3020.55, 38.51, 159.28) (success=true)
+[04:37:15] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[04:37:24] [Server thread/WARN]: Entity PokemonEntity['Lapras'/101356, l='ServerLevel[world]', x=-3020.55, y=38.00, z=159.28, removed=DISCARDED] wasn't found in section class_4076{x=-189, y=2, z=9} (destroying due to DISCARDED)
+[04:39:00] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[04:40:07] [Server thread/INFO]: <JeamByOne> tio entre semen de toro y semen de un bufalo cual prefiere
+[04:40:11] [Server thread/WARN]: Entity PokemonEntity['Lapras'/101919, l='ServerLevel[world]', x=-3078.50, y=39.00, z=162.50, removed=DISCARDED] wasn't found in section class_4076{x=-193, y=2, z=10} (destroying due to DISCARDED)
+[04:40:22] [Server thread/INFO]: [Ball Stickers] Lapras (Slot 3) sent out
+[04:41:22] [Server thread/WARN]: Entity PokemonEntity['Lapras'/102371, l='ServerLevel[world]', x=-3023.50, y=41.00, z=164.50, removed=DISCARDED] wasn't found in section class_4076{x=-189, y=2, z=10} (destroying due to DISCARDED)
+[04:41:24] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[04:44:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:44:27] [Server thread/INFO]: xdd<--[HERE]
+[04:49:08] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[04:49:26] [Server thread/INFO]: <MrSGR22> q}
+[04:49:29] [Server thread/INFO]: [Ball Stickers] Dragonite (Slot 1) sent out
+[04:49:31] [Server thread/INFO]: [Ball Stickers] Dratini (Slot 2) sent out
+[04:49:33] [Server thread/INFO]: [Ball Stickers] Dratini (Slot 3) sent out
+[04:49:46] [Server thread/WARN]: Entity PokemonEntity['Dratini'/104882, l='ServerLevel[world]', x=-255.69, y=70.00, z=-194.78, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=4, z=-13} (destroying due to DISCARDED)
+[04:49:47] [Server thread/WARN]: Entity PokemonEntity['Dratini'/104874, l='ServerLevel[world]', x=-254.11, y=70.00, z=-194.70, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=4, z=-13} (destroying due to DISCARDED)
+[04:49:48] [Server thread/WARN]: Entity PokemonEntity['Dragonite'/104871, l='ServerLevel[world]', x=-252.26, y=70.00, z=-194.10, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=4, z=-13} (destroying due to DISCARDED)
+[04:49:50] [Server thread/INFO]: <MrSGR22> y el mio macho
+[04:49:58] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[04:49:59] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[04:50:19] [Server thread/INFO]: <JeamByOne> ESTAFA PIRAMIDAL
+[04:50:22] [Server thread/INFO]: <MrSGR22> gracias mi vida
+[04:50:27] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[04:50:31] [Server thread/INFO]: <MrSGR22> asi es como lil uzi se hizo rico
+[04:50:40] [Server thread/INFO]: [Ball Stickers] Dragonite (Slot 1) sent out
+[04:51:25] [Server thread/WARN]: Entity PokemonEntity['Dragonite'/105082, l='ServerLevel[world]', x=-280.16, y=63.00, z=-189.14, removed=DISCARDED] wasn't found in section class_4076{x=-18, y=3, z=-12} (destroying due to DISCARDED)
+[04:51:56] [Server thread/INFO]: <JeamByOne> los dos pseudos que quedan le toca a ud
+[04:52:02] [Server thread/INFO]: <JeamByOne> y el axew
+[04:52:52] [Server thread/INFO]: <JeamByOne> deino, frigibax y axew
+[04:53:15] [Server thread/INFO]: Maximum spawn attempts reached. Skipping this alpha spawn
+[04:53:41] [Server thread/INFO]: <JeamByOne> ya me voy
+[04:53:47] [Server thread/INFO]: <JeamByOne> mañana hay chamba
+[04:53:54] [Netty Epoll Server IO #4/INFO]: Player JeamByOne disconnected, saving their progress data
+[04:53:54] [Netty Epoll Server IO #4/INFO]: Saved shrine progress for player JeamByOne in world world_852620163
+[04:53:54] [Server thread/INFO]: JeamByOne lost connection: Disconnected
+[04:53:54] [Server thread/INFO]: JeamByOne left the game
+[04:53:54] [Server thread/INFO]: Unregistered trainer player: JeamByOne
+[04:54:55] [Server thread/INFO]: Kicked MrSGR22: Kicked by an operator
+[04:54:55] [Netty Epoll Server IO #6/INFO]: Player MrSGR22 disconnected, saving their progress data
+[04:54:55] [Netty Epoll Server IO #6/INFO]: Saved shrine progress for player MrSGR22 in world world_852620163
+[04:54:55] [Server thread/INFO]: MrSGR22 lost connection: Kicked by an operator
+[04:54:55] [Server thread/INFO]: MrSGR22 left the game
+[04:54:55] [Server thread/INFO]: Unregistered trainer player: MrSGR22
+[04:54:59] [Server thread/INFO]: Stopping the server
+[04:54:59] [Server thread/INFO]: [Ball Stickers] Saved 2 Pokemon sticker configs to persistent storage
+[04:54:59] [Server thread/INFO]: Server stopping, saving all player progress data
+[04:54:59] [Server thread/INFO]: Stopping server
+[04:54:59] [Server thread/INFO]: Saving players
+[04:54:59] [Server thread/INFO]: Saving worlds
+[04:54:59] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 841 chunks to unload
+[04:54:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:54:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/lumymon:nightmare
+[04:54:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/legendarymonuments:distortion_world
+[04:54:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:54:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/cobblemonraiddens:raid_dimension
+[04:54:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/lumymon:origin
+[04:54:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (nightmare): All chunks are saved
+[04:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (distortion_world): All chunks are saved
+[04:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (raid_dimension): All chunks are saved
+[04:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (origin): All chunks are saved
+[04:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:54:59] [C2ME Storage #3/INFO]: Storage thread Thread[#75,C2ME Storage #3,5,main] stopped
+[04:54:59] [C2ME Storage #2/INFO]: Storage thread Thread[#74,C2ME Storage #2,5,main] stopped
+[04:54:59] [C2ME Storage #1/INFO]: Storage thread Thread[#73,C2ME Storage #1,5,main] stopped
+[04:54:59] [C2ME Storage #6/INFO]: Storage thread Thread[#78,C2ME Storage #6,5,main] stopped
+[04:54:59] [C2ME Storage #5/INFO]: Storage thread Thread[#77,C2ME Storage #5,5,main] stopped
+[04:54:59] [C2ME Storage #4/INFO]: Storage thread Thread[#76,C2ME Storage #4,5,main] stopped
+[04:54:59] [C2ME Storage #8/INFO]: Storage thread Thread[#80,C2ME Storage #8,5,main] stopped
+[04:54:59] [C2ME Storage #9/INFO]: Storage thread Thread[#81,C2ME Storage #9,5,main] stopped
+[04:54:59] [C2ME Storage #7/INFO]: Storage thread Thread[#79,C2ME Storage #7,5,main] stopped
+[04:54:59] [C2ME Storage #12/INFO]: Storage thread Thread[#84,C2ME Storage #12,5,main] stopped
+[04:54:59] [C2ME Storage #10/INFO]: Storage thread Thread[#82,C2ME Storage #10,5,main] stopped
+[04:54:59] [C2ME Storage #11/INFO]: Storage thread Thread[#83,C2ME Storage #11,5,main] stopped
+[04:54:59] [C2ME Storage #15/INFO]: Storage thread Thread[#87,C2ME Storage #15,5,main] stopped
+[04:54:59] [C2ME Storage #14/INFO]: Storage thread Thread[#86,C2ME Storage #14,5,main] stopped
+[04:54:59] [C2ME Storage #13/INFO]: Storage thread Thread[#85,C2ME Storage #13,5,main] stopped
+[04:54:59] [C2ME Storage #18/INFO]: Storage thread Thread[#90,C2ME Storage #18,5,main] stopped
+[04:54:59] [C2ME Storage #17/INFO]: Storage thread Thread[#89,C2ME Storage #17,5,main] stopped
+[04:54:59] [C2ME Storage #16/INFO]: Storage thread Thread[#88,C2ME Storage #16,5,main] stopped
+[04:54:59] [C2ME Storage #21/INFO]: Storage thread Thread[#93,C2ME Storage #21,5,main] stopped
+[04:54:59] [C2ME Storage #20/INFO]: Storage thread Thread[#92,C2ME Storage #20,5,main] stopped
+[04:54:59] [C2ME Storage #19/INFO]: Storage thread Thread[#91,C2ME Storage #19,5,main] stopped
+[04:54:59] [Server thread/INFO]: Discarded config watch service
+[04:54:59] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[04:54:59] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
+[04:54:59] [Server thread/INFO]: Dispatching unloading event for config iteminteractions-server.toml
+[04:54:59] [Server thread/INFO]: Dispatching unloading event for config pickupnotifier/pickupnotifier-server.toml

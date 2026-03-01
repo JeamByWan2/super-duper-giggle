@@ -1,0 +1,17 @@
+filename = 'mega_showdown-fabric-1.6.12+1.7.3+1.21.1.jar'
+name = 'Cobblemon: Mega Showdown'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6.12+1.7.3+1.21.1'
+
+[download]
+hash = '1f68a30637cfe183db9a41f97d2c812ddbc48a90c2bd8e179027d84e99a9cd194980a17b1991db1d373d672393e7d676e085660734f27f8aac04af1cdc2083b3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SszvX85I/versions/FgMP7Nw8/mega_showdown-fabric-1.6.12%2B1.7.3%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'SszvX85I'
+version = 'FgMP7Nw8'

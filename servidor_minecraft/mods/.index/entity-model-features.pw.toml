@@ -1,0 +1,17 @@
+filename = 'entity_model_features_1.21-fabric-3.0.12.jar'
+name = '[EMF] Entity Model Features'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.0.12-fabric-1.21'
+
+[download]
+hash = 'd91b4fb953089a2a5bab550ce2b77d02a7ef7fb308f5aea12ef95eda809c17977e4806920feebe13ecd3011ea15e75d7cb729278a9e345345ac1e327f0778d2a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4I1XuqiY/versions/r7vEKOfY/entity_model_features_1.21-fabric-3.0.12.jar'
+
+[update.modrinth]
+mod-id = '4I1XuqiY'
+version = 'r7vEKOfY'

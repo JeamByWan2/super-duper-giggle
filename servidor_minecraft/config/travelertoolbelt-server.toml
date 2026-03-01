@@ -1,0 +1,10 @@
+#Server config settings
+[server]
+	#List of items allowed in the tool belt (this overrides the blacklist) (Use registry names, for example: "minecraft:apple", "minecraft:flint")
+	whitelist = []
+	#List of items not allowed in the tool belt (the whitelist takes precedence) (Use registry names, for example: "minecraft:apple", "minecraft:flint")
+	blacklist = []
+	#If true, all non-stackable items can be placed in the tool belt
+	allowAllNonStackableItems = true
+	#If true, any item can be placed in the tool belt
+	allowAllItems = false

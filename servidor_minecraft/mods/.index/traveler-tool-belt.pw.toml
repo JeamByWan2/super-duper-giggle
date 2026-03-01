@@ -1,0 +1,17 @@
+filename = 'travelertoolbelt-fabric-1.21.1-1.0.0.jar'
+name = 'Traveler Tool Belt'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.0.0'
+
+[download]
+hash = 'c5d171f68d4d07e66588a1906476ec46b2c6922c1e5d33adc33a9121f07242e3e7d7e01a32e857fe9e3bb3ae712e99e1f467e9bcc34cd47b94ba340986d3814f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oQxD3huq/versions/HeyFw3AE/travelertoolbelt-fabric-1.21.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'oQxD3huq'
+version = 'HeyFw3AE'

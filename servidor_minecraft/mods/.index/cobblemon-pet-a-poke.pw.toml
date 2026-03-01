@@ -1,0 +1,38 @@
+filename = 'patapoke.jar'
+name = '[Cobblemon] Pet a poke'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21.1',
+    '1.21.1',
+    '1.21.10',
+    '1.21.10',
+    '1.21.2',
+    '1.21.2',
+    '1.21.3',
+    '1.21.3',
+    '1.21.4',
+    '1.21.4',
+    '1.21.5',
+    '1.21.5',
+    '1.21.6',
+    '1.21.6',
+    '1.21.7',
+    '1.21.7',
+    '1.21.8',
+    '1.21.8',
+    '1.21.9',
+    '1.21.9'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1'
+
+[download]
+hash = 'c15175ba3e7668a6580c20684a5fa7f7ae5ae5001970db8ddb394dd841c718836abab4246f2b9666e14a6a119427acbed381b8dbe0a8633b8f18e15b62ef6779'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kppEhbWI/versions/rJIYdOO5/patapoke.jar'
+
+[update.modrinth]
+mod-id = 'kppEhbWI'
+version = 'rJIYdOO5'
